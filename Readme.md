@@ -1,4 +1,4 @@
-### README: Binance Prediction using Machine Learning  
+### Binance Prediction using Machine Learning  
 
 #### **Project Overview**  
 This project aims to predict Binance price trends using various machine learning models, including Decision Trees, Random Forests, Deep Neural Networks (DNN), LightGBM, and XGBoost. The dataset consists of historical market data, and the objective is to classify price movements (e.g., "Price Up," "Price Down") or predict continuous price values.  
